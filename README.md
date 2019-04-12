@@ -1,2 +1,2 @@
 # lorawan-simple-server
-a simple server for lorawan
+A simple server for lorawan
